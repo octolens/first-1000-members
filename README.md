@@ -1,5 +1,5 @@
 # First 1,000 members
-Asking succesful open-source projects: How did you get your first 1,000 community members?
+Asking succesful open-source projects: **How did you get your first 1,000 community members?**
 
 |Company|Person|First 1,000?|Quote|
 |:-------|:-----|:------------|:--------|
