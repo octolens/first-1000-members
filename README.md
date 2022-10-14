@@ -1,5 +1,14 @@
 # First 1,000 members
-Asking succesful open-source projects: **How did you get your first 1,000 community members?**
+Asking successful open-source projects: **How did you get your first 1,000 community members?**
+
+## How to contribute
+There are two ways to contribute to the list:
+
+1) Tweet how you got the first 1,000 community members and use #first1000members
+2) Submit a PR
+
+
+## How successful open-source projects got their first 1,000 community members
 
 |Company|Person|First 1,000?|Quote|
 |:-------|:-----|:------------|:--------|
