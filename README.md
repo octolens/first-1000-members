@@ -9,5 +9,5 @@ Asking succesful open-source projects: How did you get your first 1,000 communit
 [Hashicorp](https://www.hashicorp.com/)| Mitchell Hashimoto (Founder) | Meetups & word of mouth | "We reached our first 1000 community members well before a company ever existed, probably sometime in 2010 or 2011 (the company was founded in 2012, the original open source work began the end of 2009). My primary means of reaching these users was local meetup groups and word of mouth." [[1](https://pchase.substack.com/p/how-the-largest-open-source-companies)] |
 
 ## Acknowledgement
-This project got inspired by Patrick Chase's newsletter "[How the largest open source companies got their first 1k community members](https://pchase.substack.com/p/how-the-largest-open-source-companies)".
+This project was inspired by Patrick Chase's newsletter "[How the largest open source companies got their first 1k community members](https://pchase.substack.com/p/how-the-largest-open-source-companies)".
 
