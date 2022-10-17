@@ -4,7 +4,7 @@ Asking successful open-source projects: **How did you get your first 1,000 commu
 ## How to contribute
 There are two ways to contribute to the list:
 
-1) Tweet how you got the first 1,000 community members and use [#first1000members](https://twitter.com/search?q=first1000members&src=typed_query&f=live)
+1) Tweet how you got your first 1,000 community members and use [#first1000members](https://twitter.com/search?q=first1000members&src=typed_query&f=live)
 2) Submit a PR
 
 
