@@ -1,7 +1,7 @@
 # First 1,000 members
 Asking successful open-source projects: **How did you get your first 1,000 community members?**
 
-"Members" can refer to stargazers, users in a Slack server, Twitter followers, etc.
+"Members" can refer to GitHub stargazers, Slack users, Twitter followers, etc.
 
 ## How to contribute
 There are two ways to contribute to the list:
