@@ -10,6 +10,8 @@ There are two ways to contribute to the list:
 
 ## How successful open-source projects got their first 1,000 community members
 
+alphabetically sorted by Company
+
 |Company|Person|First 1,000?|Quote|
 |:-------|:-----|:------------|:--------|
 [Cockroach](https://www.cockroachlabs.com/)| Peter Mattis (Co-Founder, CTO) | Posting content on HackerNews | "Our initial Github Stars primarily came from Hackernews. We received some very early press attention (even before CRL was funded) that made it onto Hackernews…[and] made writing blog posts about CRDB part of the engineering culture and many of those blog posts made it to the front page of HN." [[1](https://pchase.substack.com/p/how-the-largest-open-source-companies)] |
