@@ -23,6 +23,7 @@ alphabetically sorted by Company
 [Nhost](https://nhost.io/)| Johan Eliasson (CEO) | Starting with a very narrow audience and use case | "We built and open-sourced auth and storage for Hasura, which, it turned out, many users of Hasura needed. When developers were searching for auth and storage for Hasura they found our repo, both on GitHub and Google. That's how it all started." |
 [OpenReplay](https://openreplay.com/)| Mehdi Osman (CEO) | Posting content on Linkedin, Twitter and Blog | "We got our first 1000 members through content. Content is key for letting developers know about your product." |
 [Plausible Analytics](https://plausible.io/)| Marko Saric (Founder) | Posting content on HackerNews, Reddit, and Twitter | "We have been very proactive in publishing content and sharing our opinions about privacy, open-source, and Google’s surveillance capitalism. By posting that content, the word spread. A few blogs got popular on Hackernews, Reddit, and Twitter." [[2](https://www.crowd.dev/post/how-plausible-bootstrapped-to-500k-arr-through-community)] |
+[Wasp](https://wasp-lang.dev/)| Matija Sosic (CEO) | Focussing on product & Launching on Reddit, ProductHunt, and HackerNews | "Our primary goal was never to reach X stars, but rather to understand how we can make Wasp more helpful so that developers would want to use it for their projects." [[3](https://wasp-lang.dev/blog/2022/09/29/journey-to-1000-gh-stars)] |
 
 
 
